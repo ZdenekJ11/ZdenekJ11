@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZdenekJ11!
 - 👀 I’m photographer, astronomer, programer 
-Spaceflight, astronomy, science and technology fan
-:camera_with_flash::milky_way::man_technologist::rocket:
+Spaceflight, astronomy, science and technology fan 📸:milky_way::man_technologist::rocket:
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 
 <!---
