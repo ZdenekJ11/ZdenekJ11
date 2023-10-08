@@ -2,6 +2,8 @@
 - 👀 I’m photographer, astronomer, programer 
 Spaceflight, astronomy, science and technology fan 📸:milky_way::man_technologist::rocket:
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🎒 Student of GyHoli
+- 🌠 Writer for Czech Astrinomical Society
 
 <!---
 ZdenekJ11/ZdenekJ11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
