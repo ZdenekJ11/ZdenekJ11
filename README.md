@@ -2,7 +2,6 @@
 - 👀 I’m photographer, astronomer, programer 
 Spaceflight, astronomy, science and technology fan
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 🎒 Student of GyHoli
 - 🌠 Writer for Czech Astronomical Society
 
 <!---
